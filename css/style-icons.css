@@ -1,0 +1,76 @@
+a{
+  text-decoration: none;
+  color:black;
+}
+
+  .pencil--blue_{
+    font-size: 120px;
+    color: blue;
+  }
+  .box-pencil--blue_:hover{
+  background: #334CFF;
+  /* opacity: 0.5;   */
+  }
+  .pencil--yellow_{
+    font-size: 120px;
+    color: #FFF867;
+  }
+  .box-pencil--yellow_:hover{
+  background: #FFF867;
+  /* opacity: 0.5;   */
+  }
+  .pencil--red_{
+    font-size: 120px;
+    color: #E74C3C;
+  }
+  .box-pencil--red_:hover{
+  background: #E74C3C;
+  /* opacity: 0.5;   */
+  }
+  .pencil--orange_{
+    font-size: 120px;
+    color: #F6B251;
+  }
+  .box-pencil--orange_:hover{
+  background: #F6B251;
+  /* opacity: 0.5;   */
+  }
+  .pencil--green_{
+    font-size: 120px;
+    color: #58D68D;
+  }
+  .box-pencil--green_:hover{
+  background: #58D68D;
+  /* opacity: 0.5;   */
+  }
+  .pencil--black_{
+    font-size: 120px;
+    color: #17202A;
+  }
+  .box-pencil--black_:hover{
+  background: #17202A;
+  /* opacity: 0.5;   */
+  }
+  .pencil--lilac_{
+    font-size: 120px;
+    color: #AF7AC5;
+
+  }
+  .box-pencil--lilac_:hover{
+  background: #AF7AC5;
+  /* opacity: 0.5;   */
+  }
+  .pencil--gray_{
+    font-size: 120px;
+    color: #BDC3C7;
+  }
+  .box-pencil--gray_:hover{
+  background: #BDC3C7;
+  /* opacity: 0.5;   */
+  }
+
+
+
+  .icons--font--color--login{
+    font-size: 90px;
+  }
